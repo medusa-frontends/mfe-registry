@@ -1,6 +1,6 @@
-[submodule "mfe-host"]
-	path = mfe-host
-	url = git@github.com:mfe-playground/mfe-host.git
+[submodule "mfe-app-host"]
+	path = mfe-app-host
+	url = git@github.com:mfe-playground/mfe-app-host.git
 [submodule "mfe-app-layout"]
 	path = mfe-app-layout
 	url = git@github.com:mfe-playground/mfe-app-layout.git
