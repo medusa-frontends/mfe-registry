@@ -7,3 +7,6 @@
 [submodule "mfe-app-home"]
 	path = mfe-app-home
 	url = git@github.com:mfe-playground/mfe-app-home.git
+[submodule "mfe-cli"]
+	path = mfe-cli
+	url = git@github.com:mfe-playground/mfe-cli.git
