@@ -1,9 +1,9 @@
 [submodule "mfe-app-host"]
 	path = mfe-app-host
-	url = git@github.com:mfe-playground/mfe-app-host.git
+	url = git@github.com:medusa-frontends/mfe-app-host.git
 [submodule "mfe-app-layout"]
 	path = mfe-app-layout
-	url = git@github.com:mfe-playground/mfe-app-layout.git
+	url = git@github.com:medusa-frontends/mfe-app-layout.git
 [submodule "mfe-app-home"]
 	path = mfe-app-home
-	url = git@github.com:mfe-playground/mfe-app-home.git
+	url = git@github.com:medusa-frontends/mfe-app-home.git

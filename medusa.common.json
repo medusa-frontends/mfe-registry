@@ -1,0 +1,6 @@
+{
+  "apps": ["mfe-app-home"],
+  "appBase": {
+    "shared": ["react", "react-dom"]
+  }
+}
